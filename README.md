@@ -1,2 +1,3 @@
 # VRPTHW
-Vehicle Routing Problem with Time Windows
+Vehicle routing problem with time windows using gorubipy as solver in python
+Introdução a Otimização
